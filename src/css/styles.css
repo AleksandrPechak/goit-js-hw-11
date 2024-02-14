@@ -121,6 +121,8 @@ img {
 
 .gallery-link {
   display: block;
+  width: 360px;
+  height: 200px;
   overflow: hidden;
 }
 
